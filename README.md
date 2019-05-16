@@ -1,2 +1,2 @@
-# RetailManagement
+# RetailManager
 A retail management system
